@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "first file",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/juliosam/first-json.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Julio Samaniego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliosam/first-json/issues"
+  },
+  "homepage": "https://github.com/juliosam/first-json#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
